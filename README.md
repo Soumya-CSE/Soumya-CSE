@@ -1,4 +1,4 @@
-# Hi 👋, I'm Soumya Hazra
+# Hi 👋, I'm Soumya Kanti Hazra
 
 ### 🛡️ Cyber Security Enthusiast | Management-Oriented Problem Solver
 
