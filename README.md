@@ -103,7 +103,7 @@ I want to build a career where I can combine **Cyber Security**, **technology**,
 
 📧 **Email:** [soumyaahazra@gmail.com](mailto:soumyaahazra@gmail.com)
 
-💼 **LinkedIn:** https://www.linkedin.com/in/soumya-hazra-b20162374
+💼 **LinkedIn:** (https://www.linkedin.com/in/soumya-kanti-hazra-b20162374)
 
 💻 **GitHub:** https://github.com/Soumya-CSE
 
