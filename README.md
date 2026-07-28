@@ -56,12 +56,6 @@ A rule-based phishing detection system that analyzes URLs using explainable secu
 
 ---
 
-### 🎓 Face Recognition Attendance Management System
-
-A smart attendance management system that uses facial recognition to automatically identify students and record attendance, reducing manual effort and improving accuracy.
-
-**Tech Stack:** Python • OpenCV • Tkinter • MySQL
-
 ---
 
 ### 🔐 AES Encryption & Decryption Tool
