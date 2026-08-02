@@ -49,13 +49,28 @@ Rather than focusing only on writing code, I'm interested in roles that combine 
 
 ## 🚀 Featured Projects
 
+### 🛡️ SIEM Lite – Security Log Monitoring System
+
+A lightweight Security Information and Event Management (SIEM) application that analyzes security logs, detects suspicious activities, generates alerts, and provides an interactive dashboard for SOC analysts.
+
+**Backend:** Python • Flask • SQLite  
+**Frontend:** HTML5 • CSS3 • Bootstrap • JavaScript • Chart.js
+
+---
+
+### 📍 Geo Authentication System
+
+A secure authentication system that verifies user logins based on geographic location and detects suspicious login attempts from unusual locations.
+
+**Tech Stack:** Python • Flask • SQLite • HTML • CSS • Bootstrap
+
+---
+
 ### 🛡️ Phishing Website Detector
 
 A rule-based phishing detection system that analyzes URLs using explainable security heuristics and generates a risk score based on common phishing indicators.
 
 **Tech Stack:** Python • HTML • CSS • JavaScript
-
----
 
 ---
 
