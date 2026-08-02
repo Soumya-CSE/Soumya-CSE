@@ -11,6 +11,7 @@ Rather than focusing only on writing code, I'm interested in roles that combine 
 ## 🚀 What I'm Interested In
 
 * 🛡️ Cyber Security
+* 🔵 Blue Team
 * 🔐 Security Operations Center (SOC)
 * 📊 Risk Analysis & Risk Management
 * 📈 Product Management
