@@ -117,6 +117,8 @@ I want to build a career where I can combine **Cyber Security**, **technology**,
 
 💻 **GitHub:** https://github.com/Soumya-CSE
 
+🎮 Discord: `neel_36801`
+
 ---
 
 > **"Technology secures systems. Leadership secures the future."**
