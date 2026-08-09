@@ -74,7 +74,7 @@ A rule-based phishing detection system that analyzes URLs using explainable secu
 
 ---
 
-### 🔐 AES Encryption & Decryption Tool
+### 🔐 CyberCrypt-AES
 
 A desktop application that securely encrypts and decrypts data using the AES (Advanced Encryption Standard) algorithm with password-based encryption.
 
