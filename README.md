@@ -117,6 +117,8 @@ I want to build a career where I can combine **Cyber Security**, **technology**,
 
 💻 **GitHub:** https://github.com/Soumya-CSE
 
+🛡️ **TryHackMe:** https://tryhackme.com/p/soumyahazra
+
 🎮 Discord: `neel_36801`
 
 ---
