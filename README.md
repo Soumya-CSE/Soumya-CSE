@@ -27,7 +27,6 @@ Rather than focusing only on writing code, I'm interested in roles that combine 
 * Python
 * Java
 * C
-* C++
 
 **Core Areas**
 
@@ -35,6 +34,8 @@ Rather than focusing only on writing code, I'm interested in roles that combine 
 * Computer Networks
 * Operating Systems
 * Database Management
+* Software Engineering
+* Cryptography 
 * Object-Oriented Programming
 
 **Tools**
