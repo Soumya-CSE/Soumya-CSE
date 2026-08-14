@@ -13,6 +13,7 @@ Rather than focusing only on writing code, I'm interested in roles that combine 
 * 🛡️ Cyber Security
 * 🔵 Blue Team
 * 🔐 Security Operations Center (SOC)
+* 🔑 Cryptography 
 * 📊 Risk Analysis & Risk Management
 * 📈 Product Management
 * 💼 Business Strategy
