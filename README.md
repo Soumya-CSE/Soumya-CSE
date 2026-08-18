@@ -1,6 +1,6 @@
 # Hi 👋, I'm Soumya Kanti Hazra
 
-### 🛡️ Cyber Security Enthusiast | Management-Oriented Problem Solver
+### 🛡️ Aspiring SOC Analyst | Cybersecurity Enthusiast
 
 I'm a Computer Science Engineering student with a strong interest in **Cyber Security**, **Risk Analysis**, and **Management**. I enjoy understanding how systems work, identifying security risks, and thinking strategically about solving technical and business problems.
 
