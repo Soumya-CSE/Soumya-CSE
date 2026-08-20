@@ -97,6 +97,7 @@ A password security tool that evaluates password strength based on length, chara
 
 * SOC Operations
 * SIEM Fundamentals
+* EDR Fundamentals
 * Incident Response
 * Network Security
 * Product Strategy
