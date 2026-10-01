@@ -68,14 +68,6 @@ A secure authentication system that verifies user logins based on geographic loc
 
 ---
 
-### 🛡️ Phishing Website Detector
-
-A rule-based phishing detection system that analyzes URLs using explainable security heuristics and generates a risk score based on common phishing indicators.
-
-**Tech Stack:** Python • HTML • CSS • JavaScript
-
----
-
 ### 🔐 CyberCrypt-AES
 
 A desktop application that securely encrypts and decrypts data using the AES (Advanced Encryption Standard) algorithm with password-based encryption.
