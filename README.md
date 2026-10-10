@@ -44,6 +44,7 @@ Rather than focusing only on writing code, I'm interested in roles that combine 
 * Git & GitHub
 * Linux
 * VS Code
+* Splunk
 * MySQL
 * HTML • CSS • JavaScript
 
@@ -59,6 +60,8 @@ Rather than focusing only on writing code, I'm interested in roles that combine 
 * Product Strategy
 * Risk Management
 * Leadership & Decision Making
+* MITRE ATT&CK Techniques
+
 
 ---
 
